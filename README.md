@@ -1,5 +1,5 @@
-# Szeva!
-## Innen lehet letölteni az Ampix Updatert.
-### Ajánlom hogy a legújabbat töltsed le
+# Üdv!
+## Eddig innen lehetett letölteni az Ampix Updatert.
+### Kérlek már a lentebbb található linkről töltsd le.
 
-## [#CsakAzAmpix](https://ampix.hu)
+## [Inenn töltsd le](https://github.com/Ampix/Updater/releases)
