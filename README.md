@@ -2,4 +2,4 @@
 ## Eddig innen lehetett letölteni az Ampix Updatert.
 ### Kérlek már a lentebbb található linkről töltsd le.
 
-## [Inenn töltsd le](https://github.com/Ampix/Updater/releases)
+## [Innen töltsd le](https://github.com/Ampix/Updater/releases)
